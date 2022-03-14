@@ -393,6 +393,7 @@ DESKTOP SIZE
     .container {
         display :flex;
         justify-content: space-between;
+        margin-bottom: 3rem;
     }
 
     /* Header */
