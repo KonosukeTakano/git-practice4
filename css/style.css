@@ -391,7 +391,8 @@ DESKTOP SIZE
 @media (min-width: 600px) {
     /* Layout*/
     .container {
-        
+        display :flex;
+        justify-content: space-between;
     }
 
     /* Header */
