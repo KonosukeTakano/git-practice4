@@ -391,10 +391,7 @@ DESKTOP SIZE
 @media (min-width: 600px) {
     /* Layout*/
     .container {
-        display: flex;
-        justify-content: space-between;
-        margin-bottom: 4rem;
-        padding: 1rem 2.5rem 2.5rem;
+        
     }
 
     /* Header */
@@ -411,8 +408,7 @@ DESKTOP SIZE
 
     /* Main */
     main {
-        width: 68%;
-        margin-bottom: 0;
+        
     }
     .post-thumb {
         margin: 0 3rem 1rem 0;
@@ -426,7 +422,7 @@ DESKTOP SIZE
 
     /* Aside */
     aside {
-        width: 26%;
+        
     }
 
     /* 人気記事 */
