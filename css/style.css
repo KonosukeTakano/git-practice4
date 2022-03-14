@@ -411,7 +411,8 @@ DESKTOP SIZE
 
     /* Main */
     main {
-        
+        width: 68%;
+        margin-bottom: 0;
     }
     .post-thumb {
         margin: 0 3rem 1rem 0;
